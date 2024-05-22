@@ -1,0 +1,19 @@
+========================================================================= 
+Log Path: /Users/lnab/Code/Remote/qc-folder-structure/log/D4_pull_20240522_223013.log 
+Program Path: /Users/lnab/Code/Remote/qc-folder-structure/data/pull_synthetic_D4.R 
+Working Directory: /Users/lnab/Code/Remote/qc-folder-structure 
+User Name: lnab 
+R Version: 4.4.0 (2024-04-24) 
+Machine: MA014832 arm64 
+Operating System: Darwin 23.5.0 Darwin Kernel Version 23.5.0: Wed May 1 20:19:05 PDT 2024; root:xnu-10063.121.3~5/RELEASE_ARM64_T8112 
+Base Packages: stats graphics grDevices utils datasets methods base 
+Other Packages: readr_2.1.5 
+Log Start Time: 2024-05-22 22:30:13.602838 
+========================================================================= 
+
+D4.rds succesfully downloaded! 
+
+========================================================================= 
+Log End Time: 2024-05-22 22:30:13.60379 
+Log Elapsed Time: 0 00:00:00 
+========================================================================= 

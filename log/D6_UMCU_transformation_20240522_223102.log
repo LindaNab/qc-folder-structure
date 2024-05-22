@@ -1,0 +1,19 @@
+========================================================================= 
+Log Path: /Users/lnab/Code/Remote/qc-folder-structure/log/D6_UMCU_transformation_20240522_223102.log 
+Program Path: /Users/lnab/Code/Remote/qc-folder-structure/code/transform_D5_to_D6.R 
+Working Directory: /Users/lnab/Code/Remote/qc-folder-structure 
+User Name: lnab 
+R Version: 4.4.0 (2024-04-24) 
+Machine: MA014832 arm64 
+Operating System: Darwin 23.5.0 Darwin Kernel Version 23.5.0: Wed May 1 20:19:05 PDT 2024; root:xnu-10063.121.3~5/RELEASE_ARM64_T8112 
+Base Packages: stats graphics grDevices utils datasets methods base 
+Other Packages: readr_2.1.5 
+Log Start Time: 2024-05-22 22:31:02.401045 
+========================================================================= 
+
+D6_UMCU.rds succesfully saved after being transformed! 
+
+========================================================================= 
+Log End Time: 2024-05-22 22:31:02.402003 
+Log Elapsed Time: 0 00:00:00 
+========================================================================= 
